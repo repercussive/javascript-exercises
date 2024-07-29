@@ -3,7 +3,7 @@ import isUsernameValid from './isUsernameValid'
 describe('isUsernameValid', () => {
 
   test.skip('Returns true for valid username', () => {
-    expect(isUsernameValid('valid')).toBe(true)
+    expect(isUsernameValid('bob99')).toBe(true)
   })
 
   test.skip('Returns false if username is too short', () => {
