@@ -1,4 +1,4 @@
-function convertTextToBoolean(text) {
+function convertTextToBoolean() {
 
 }
 

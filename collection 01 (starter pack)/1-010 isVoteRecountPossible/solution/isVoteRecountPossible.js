@@ -1,4 +1,4 @@
-function isVoteRecountAvailable(votesForCandidateA, votesForCandidateB) {
+function isVoteRecountPossible(votesForCandidateA, votesForCandidateB) {
   const difference = Math.abs(votesForCandidateA - votesForCandidateB)
   const totalVotes = votesForCandidateA + votesForCandidateB
   return (difference / totalVotes) <= 0.0025
