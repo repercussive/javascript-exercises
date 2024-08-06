@@ -88,3 +88,5 @@ function helloWorld() {
 
 
 When all of the tests within an exercise have been enabled (i.e. `.skip` has been removed) and all the tests are passing, that means you have completed the task!
+
+Each exercise has one or more example solutions, found within the exercise's `/solution` folder. You can use this to compare against your own solution. Keep in mind that there are often many valid ways of solving the same problem.
