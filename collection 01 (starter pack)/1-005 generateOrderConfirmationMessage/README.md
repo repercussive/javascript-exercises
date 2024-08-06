@@ -20,8 +20,8 @@ Write a function to generate the order confirmation email message.
 
 ```js
 generateOrderConfirmationMessage('Nintendo Switch', true)
-// returns "Thank you for your order of Nintendo Switch. We aim to deliver within 1-2 working days."
+// returns 'Thank you for your order of Nintendo Switch. We aim to deliver within 1-2 working days.'
 
 generateOrderConfirmationMessage('PS5', false)
-// returns "Thank you for your order of PS5. We aim to deliver within 3-5 working days."
+// returns 'Thank you for your order of PS5. We aim to deliver within 3-5 working days.'
 ```

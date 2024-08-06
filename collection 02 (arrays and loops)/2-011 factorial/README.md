@@ -1,1 +1,13 @@
-https://www.calculatorsoup.com/calculators/discretemathematics/factorials.php#:~:text=A%20factorial%20is%20a%20function%20that%20multiplies%20a%20number%20by%20every%20number%20below%20it.%20For%20example%205!%3D%205*4*3*2*1%3D120.%20The%20function%20is%20used%2C%20among%20other%20things%2C%20to%20find%20the%20number%20of%20ways%20%E2%80%9Cn%E2%80%9D%20objects%20can%20be%20arranged
+# `factorial`
+
+## Task
+
+Write a function that, given a number, returns the factorial of that number.
+
+[Click here for more information about factorials.](https://www.mathsisfun.com/numbers/factorial.html)
+
+```js
+// 5! = 5 × 4 × 3 × 2 × 1
+
+factorial(5) // returns 120
+```
