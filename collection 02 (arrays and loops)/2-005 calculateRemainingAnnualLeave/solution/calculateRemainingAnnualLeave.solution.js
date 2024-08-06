@@ -1,4 +1,4 @@
-function remainingAnnualLeave(totalDaysAvailable, holidays) {
+function calculateRemainingAnnualLeave(totalDaysAvailable, holidays) {
   let daysRemaining = totalDaysAvailable
 
   for (let holidayDuration of holidays) {
