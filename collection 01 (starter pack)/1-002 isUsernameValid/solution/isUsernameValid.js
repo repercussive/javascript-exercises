@@ -1,4 +1,4 @@
-function isUsernameValid() {
+function isUsernameValid(username) {
   if (username === null || username === undefined) {
     return false
   }
